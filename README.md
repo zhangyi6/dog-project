@@ -18,8 +18,8 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-Z0JAar9+DkI1NjGVdZr3GivARUgJtA0o2eHlTv7Ou2gshR5awWVf8QGsq11Ns9ZxQLEs+G5/SuARmvpOLMzulw==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-95aff0b550d3fe338b645a4deebdcb1b.css" />
-  <link crossorigin="anonymous" media="all" integrity="sha512-C6N00W0iP2oB+7G1Ky/7vUewo8ZDLWvsP4jCxLh7Oh5WDWqzcWI2dc/rBQF/KUVgnlJgdnzx8Q7d14ukpUMIdA==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-485942f0765a59298868de83961beb76.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-1FLfhli3wF1EqKy4+DmsB7My96mQ71ZtDpkmg/2A8RP+5uDgJ0zAT8sRDwSG0p75xQjd9aMIVb58gpjhC//ngA==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-dcca19dafecb17dea634d2f083dc7f9f.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-wP/9nhjjk4iDZg6yPJz6mdjfH+dfnHw58vmwPR4cyQNbgM/E54TbIkN+ltqaoWVwHM+YDukQHBEBoe+vM3QyRQ==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-e98c5f58e8fefda5cd946464e89d98e6.css" />
   
   
   
@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/1916665?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="udacity/cn-deep-learning" /><meta property="og:url" content="https://github.com/udacity/cn-deep-learning" /><meta property="og:description" content="https://cn.udacity.com/course/deep-learning-nanodegree-foundation--nd101/ - udacity/cn-deep-learning" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzE4Njk2Mzk5OjRmMzI3YmI2YzI4OWEzYTM3NTg0MDhjODhmYmU3NmZmOTVhMTE0NzQ3MGZmZDVkZGQ1ZTFiMjU2NjZhNzU2OGM=--e142601b83264955d4a7f7dc5041a656e80b303f">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzE4Njk3MzY2OjJiYWY3NTk2YjgzZjIxOTA0NjNhYTQyMDAyYWJjMDE4ZjFjMDZmM2U0MDViNmI5YmE3ZmE0NThjNzI5YzZmNTc=--8f554fc986fb540b36ecce4a8c3d2ad246e47df0">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="7000:4CBB:B6CB38:123A254:5BA1C132" data-pjax-transient>
+  <meta name="request-id" content="6F05:6549:D75B53:13AB8DE:5BA30615" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="7000:4CBB:B6CB38:123A254:5BA1C132" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="38745125" /><meta name="octolytics-actor-login" content="zhangyi6" /><meta name="octolytics-actor-hash" content="d18c829c57711fe1489f7e38d2b5e18c73fd4ea4390c5b014b3d6f4e7b1c32f5" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="6F05:6549:D75B53:13AB8DE:5BA30615" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="38745125" /><meta name="octolytics-actor-login" content="zhangyi6" /><meta name="octolytics-actor-hash" content="d18c829c57711fe1489f7e38d2b5e18c73fd4ea4390c5b014b3d6f4e7b1c32f5" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -70,13 +70,13 @@
     <meta name="user-login" content="zhangyi6">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YjRjZTQ3ZDJlNWNkMzc2OGU0ODM4YTU0ZDhiNGE5M2MyNTMyYWQ2MGVmZTU4MDlkMjZiNjA3ZDQyZDRiMzgwOXx7InJlbW90ZV9hZGRyZXNzIjoiMjIyLjIxMi4yMDEuMjM4IiwicmVxdWVzdF9pZCI6IjcwMDA6NENCQjpCNkNCMzg6MTIzQTI1NDo1QkExQzEzMiIsInRpbWVzdGFtcCI6MTUzNzMyNzQxNCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="MDk5MDYzZTBjZGYyZmM3Mzc2MjZlMThlYjIwZjMwZDk1MjIwNmQ2NDM4Nzc3MWU2ZTdlZWRmNDk0NDhmNWIwYnx7InJlbW90ZV9hZGRyZXNzIjoiMTcxLjg4LjI5Ljk3IiwicmVxdWVzdF9pZCI6IjZGMDU6NjU0OTpENzVCNTM6MTNBQjhERTo1QkEzMDYxNSIsInRpbWVzdGFtcCI6MTUzNzQxMDU5MCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_RETARGETING,QUOTE_MARKDOWN">
 
-  <meta name="html-safe-nonce" content="24be1bd3f2556224cda03a1affdcf637c9cfc851">
+  <meta name="html-safe-nonce" content="d2f09b4eb4d7c12ca201d4bc8b49c39c20f08df6">
 
-  <meta http-equiv="x-pjax-version" content="069fa7aa1a65c387901406ae33600fed">
+  <meta http-equiv="x-pjax-version" content="405835cdd77733f90a33cf3b5ac6e1d0">
   
 
       <link href="https://github.com/udacity/cn-deep-learning/commits/master.atom" rel="alternate" title="Recent Commits to cn-deep-learning:master" type="application/atom+xml">
@@ -155,7 +155,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=+jJAZcSm2rVBmGE0VjMnBUTiXTMhoT54cMiCld8UH2VmWpyhKqzO+bOJKvCckaohjxtcyBBpkrSloXkFVngXNA=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=jQHmhKTjIF3XmX5D7NTmhK40Ah0ykFKTKk43R+AZUSm15fXBVVkyXYpoN8sVfz5iszXbguhsNhcYW0K3dM98Lw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -305,7 +305,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DAXRIaJxGmm5OcroPpg8m0BBJIR5JYqfTAGiOLxVZZeemSSYBRDZeEoJnD7+dy1bBa53qJ1aVpa7kdbsh0/uaQ==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="837+2XA84pLFSvhYD2ggYo5QDE2pJmdFw6XRHsC0W1V0zlo7N33/U5f4fp9GFOwg3YHCUIBrXcWzx3uynEefuw==" />
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -318,7 +318,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="j7OJ8jmTicBmCBcotASUSZqisQNZhRGa7bNfhq5yWnkdL3xLnvJK0ZU4Qf5064WJ303iL736zZMaIytSlWjRhw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="oMWf+jign6jAQifI3dqe0zGxn0Jbz27Fg9ryMaL3HTEndTsYf+GCaZLwoQ+UplKRYmBRX3KCVEXzuFid/gTZ3w==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -358,7 +358,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0+WeqwhRScHM8nWweE2QsRSJvNwj2EMSD2IGlAEapFqC0co4P7SfXHHvBpzZTap4UUCukkBw5HyHTnv3bGvsuQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="90240648" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ydijWa1Z7zGlzrCj0D6KFGl0iuM3MgIMngszeiNUHhLehiWji0LFUcOzePMKGzPOabNmDvLJO6retXzHrfbkYw==" />      <input type="hidden" name="repository_id" id="repository_id" value="90240648" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/udacity/cn-deep-learning/subscription"
@@ -438,7 +438,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/udacity/cn-deep-learning/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Omk31HXyscu0SFAB3P2cG2DBvWwYyKABNuP69qOFc/4P45eOfOiSzz5WbYG9ZvvBhD1UPvMIufxsTJCisZf8ew==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/udacity/cn-deep-learning/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="7AemJPB4X0ffRyMeAmojlxTBOvTvxhRzLpuh5DNvgzBw2zO8Vq8kVp1zL3WT9GXPxhkvgq/Ei84ZlmqDnpJLpw==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -449,11 +449,11 @@
         Unstar
       </button>
         <a class="social-count js-social-count" href="/udacity/cn-deep-learning/stargazers"
-           aria-label="285 users starred this repository">
-          285
+           aria-label="288 users starred this repository">
+          288
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/udacity/cn-deep-learning/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bN4R+6aT0xW3wcwGbSa9VOq9TUV9B9NmhdvVKdl6CdUpzAJsnCGJs7ZVGlm3bOOX9tmnmOQLL9Whf3pU/etJvw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/udacity/cn-deep-learning/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/QjsziNXvWSIjt34pV+/b+uibQtxN+0K+kcnGUmU9YkKeCOn82LyO4+QjLcIa27H+LN351aLlND0yifZGL9DuA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -464,15 +464,15 @@
         Star
       </button>
         <a class="social-count js-social-count" href="/udacity/cn-deep-learning/stargazers"
-           aria-label="285 users starred this repository">
-          285
+           aria-label="288 users starred this repository">
+          288
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/udacity/cn-deep-learning/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1a8XMxYzOJcyUVnN4AQQXvJhALodwwHpSWmHwg8FFFqJJ0njlEa6LPmcAhCFUr5Dksg2v1DeXuW6nYrfc4UnJQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/udacity/cn-deep-learning/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SG2JSpV3lVgaN3zjpEv6+LzvNER6a65vbYHbn+a9cN4OsLaDbfTzikIZ5uqdYSG7uQmMrrMLJYN2mBpFKKfZ5g==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -534,6 +534,7 @@
       Projects
       <span class="Counter" >0</span>
 </a>
+
 
     <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /udacity/cn-deep-learning/wiki" href="/udacity/cn-deep-learning/wiki">
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
@@ -653,44 +654,16 @@
   </div>
 
 
-  
-  <div class="commit-tease">
-      <span class="float-right">
-        <a class="commit-tease-sha" href="/udacity/cn-deep-learning/commit/5d8811fad61776e285dc40a16b0efaaa3455857c" data-pjax>
-          5d8811f
-        </a>
-        <relative-time datetime="2018-01-29T00:21:29Z">Jan 29, 2018</relative-time>
-      </span>
-      <div>
-        <img class="avatar" width="20" height="20" alt="" src="https://camo.githubusercontent.com/f888a6fb64f8030d697f1e742e53cef37cbd4135/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f35353963306662646130626365376362626265623531383530636665376330313f643d68747470732533412532462532466173736574732d63646e2e6769746875622e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" data-canonical-src="https://0.gravatar.com/avatar/559c0fbda0bce7cbbbeb51850cfe7c01?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=140" />
-        <span class="user-mention">WalkerWalker</span>
-          <a data-pjax="true" title="update project dataset address" class="message" href="/udacity/cn-deep-learning/commit/5d8811fad61776e285dc40a16b0efaaa3455857c">update project dataset address</a>
-      </div>
+  <include-fragment src="/udacity/cn-deep-learning/contributors/master/dog-project/README.md" class="commit-tease commit-loader">
+    <div>
+      Fetching contributors&hellip;
+    </div>
 
     <div class="commit-tease-contributors">
-      
-<details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
-  <summary class="btn-link" aria-haspopup="dialog"  >
-    
-    <span><strong>0</strong> contributors</span>
-  </summary>
-  <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast " aria-label="Users who have contributed to this file">
-    <div class="Box-header">
-      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-      </button>
-      <h3 class="Box-title">Users who have contributed to this file</h3>
+        <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+      <span class="loader-error">Cannot retrieve contributors at this time</span>
     </div>
-    
-        <ul class="list-style-none overflow-auto">
-        </ul>
-
-  </details-dialog>
-</details>
-      
-    </div>
-  </div>
-
+</include-fragment>
 
 
   <div class="file">
@@ -703,20 +676,14 @@
       <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/udacity/cn-deep-learning/commits/master/dog-project/README.md">History</a>
     </div>
 
-        <a class="btn-octicon tooltipped tooltipped-nw"
-           href="https://desktop.github.com"
-           aria-label="Open this file in GitHub Desktop"
-           data-ga-click="Repository, open with desktop, type:windows">
-            <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
-        </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/udacity/cn-deep-learning/edit/master/dog-project/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HUPy0mE/OnsKsysqpD/iz2camr2MEwqisHgH1DjfWFF0NtrAKdhAobsG7r2bWd6JwzYQHjTAyqvjRa2XTM03sg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/udacity/cn-deep-learning/edit/master/dog-project/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GT5aEMDfCWO2WofswmEONxSNtQjFd8C1+FR/lycq60SZIdMF5Q0H7T68upVUVo36rWIfK+9kd/GxCiQJnxK2Pg==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/udacity/cn-deep-learning/delete/master/dog-project/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hgzII1ubXhZcV5ZhTYUq0Pvw9pkNAryrnL4MR+tdnCuHO0hq3RTtIQxmiT8Xz/5HpRvR/KvhoETegTS88nkGEQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/udacity/cn-deep-learning/delete/master/dog-project/README.md" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="T3KMI8spdHxky7UeezHnlz5NbUC2n0SePH5G0qcdJsgfiY7W2C9hsvSlg2yt8CDRkE1hipIBC6O4lWKnEItuQg==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -813,7 +780,7 @@ python -c <span class="pl-s"><span class="pl-pds">"</span>from keras import back
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.35721s from unicorn-3115487149-098ww">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.30494s from unicorn-5c7c789748-kdzs7">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -850,10 +817,10 @@ python -c <span class="pl-s"><span class="pl-pds">"</span>from keras import back
   </div>
 
 
+    <script crossorigin="anonymous" integrity="sha512-RJ1ufbxsSbKjRCyYvinsPNKvTBvcvvKUvEOJ8g+GjtWI5SuRr+QPBlZcvRDws4H9YwAgdQFcGxfL8UbwEfdI7A==" type="application/javascript" src="https://assets-cdn.github.com/assets/compat-daf14de28fadf1e2bc40d100cb773e2b.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-02xFq2Nht4XIIWBCxxq4VpC55nq5lZckudHhxAt541juEjdWFJ1DzLL+EKFLNfdBswpt4BxqElmnb+JXKx9yZw==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-4d33d091b81d47249e455238d69a1a95.js"></script>
     
-    <script crossorigin="anonymous" integrity="sha512-gB7wk1UK1eRelxt6Mw7cTmQMyE0gvGHeN8NqNpMjAN8Hmeb3GROvgqYWVvAro9tsEj+0e0HMkGbXe60gDNkNLw==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-bb6580f9e96dfbf21467d33218598f2c.js"></script>
-    
-    <script crossorigin="anonymous" async="async" integrity="sha512-qfUyw5LpNPTPv/9yViM2A7A4aveGNTGoub9QL3/+8d0v2MoqXYimROvZCbTrY5R71lHnENoE7c8m+G1OhLsG/Q==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-5cb13afb52d05fe3d7a4f79a51a6b3c8.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-wDStDFJYKnu6fNd3Wm3qrIh16OGM3w8fQC64mtBFAeo44UrjOmZ8vPfRea8W7u/ZEaKdq9pbZxInVJgEKymPhQ==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-52163b63633655af691274f50054b456.js"></script>
     
     
     
